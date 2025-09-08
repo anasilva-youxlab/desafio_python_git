@@ -1,8 +1,6 @@
 nome=input ('Qual e o seu nome?')
 idade= int(input('qual e a sua idade?' ))
 programacao=input ('Qual e a sua linguagem de programacao favorita?')
-print (f"meu nome: {nome}\nminha idade: {idade}\nLinguagem de programacao: {programacao}")
 ano_atual= int(input('em que ano estamos?' ))
 ano_nascimento= (ano_atual-idade)
-print (f"ano atual: {ano_atual} - idade {idade} = ano nascimento {ano_nascimento}")
 print (f"meu nome: {nome}\nminha idade: {idade}\nLinguagem de programacao: {programacao}\nano atual: {ano_atual}\nano nascimento {ano_nascimento}")
