@@ -1,0 +1,2 @@
+Como funciona o programa criado: 
+ele tem a intencao de te fazer perguntas como nome, idade e linguagem de programacao favorita, e calcular o seu ano de nascimento. Ele fornece as informacoes agrupadas uma abaixo da outra de forma organizada. 
